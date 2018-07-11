@@ -12,7 +12,7 @@ export default class Soldier extends Component {
             <tr>
               <td>
                 <label>Name</label>
-                {soldier.name}
+                {soldier.lastName}, {soldier.firstName} {soldier.middleInitial}.
               </td>
               <td>
                 <label>Birthplace</label>

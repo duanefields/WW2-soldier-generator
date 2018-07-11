@@ -26,10 +26,12 @@ class App extends Component {
   }
 
   createSoldier(id) {
-    const name = `${random.pick(this.firstNames)} ${random.pick(this.lastNames)}`;
+    const firstName = random.pick(this.firstNames);
+    const lastName = random.pick(this.lastNames);
+    const middleInitial = String.fromCharCode(random.integer(65,65+26));
     const birthdate = `${random.integer(1,12)}/${random.integer(1,30)}/${random.integer(1912,1922)}`;
     const birthplace = random.pick(this.cities);
-    return { id, name, birthdate, birthplace }
+    return { id, firstName, lastName, middleInitial, birthdate, birthplace }
   }
 
   render() {

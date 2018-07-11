@@ -3,6 +3,12 @@
   src: url(myoldrem.ttf);
 }
 
+@font-face {
+  font-family: form;
+  src: url('./biko/Biko_Regular.otf');
+  src: url('Renner.ttf');
+}
+
 table.form {
   border-collapse: collapse;
   border: 1px solid #aaa;
@@ -24,8 +30,9 @@ table.form td {
 
 table.form td label {
   position: absolute;
-  left: 0.1em;
-  top: -0.1em;
+  left: 0.15em;
+  top: .15em;
+  color: black;
+  font-family: form;
   font-size: 0.5em;
-  font-family: sans-serif;
 }
