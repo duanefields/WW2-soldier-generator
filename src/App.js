@@ -19,13 +19,15 @@ class App extends Component {
   constructor() {
     super();
     this.soldiers = [
-      this.createSoldier(1)
+      this.createSoldier(1),
+      this.createSoldier(2),
+      this.createSoldier(3),
     ];
   }
 
   createSoldier(id) {
     const name = `${random.pick(this.firstNames)} ${random.pick(this.lastNames)}`;
-    const birthdate = "01/01/1925";
+    const birthdate = `${random.integer(1,12)}/${random.integer(1,30)}/${random.integer(1912,1922)}`;
     const birthplace = random.pick(this.cities);
     return { id, name, birthdate, birthplace }
   }
