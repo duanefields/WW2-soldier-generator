@@ -13,6 +13,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "configure": "aws s3api create-bucket --bucket recruit.fastwombat.com && aws s3 website s3://recruit.fastwombat.com --index-document index.html --error-document index.html && aws s3api put-bucket-policy --bucket recruit.fastwombat.com --policy file://etc/bucketPolicy.json",
+    "deploy": "aws s3 sync build/ s3://recruit.fastwombat.com",
+    "predeploy": "yarn run build"
   }
 }
