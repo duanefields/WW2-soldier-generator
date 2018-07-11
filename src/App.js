@@ -35,7 +35,7 @@ class App extends Component {
   render() {
     const soldierList = this.soldiers.map(s => <Soldier data={s} key={s.id}/>);
     return (
-      <div className="App">
+      <div>
         <h1>Military Service Record</h1>
         { soldierList }
       </div>

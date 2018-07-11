@@ -1,28 +1,42 @@
-.App {
+@font-face {
+  font-family: typewriter;
+  src: url(./fonts/myoldrem.ttf);
+}
+
+@font-face {
+  font-family: form;
+  src: url('./fonts/Renner.ttf');
+  src: url('./fonts/biko/Biko_Regular.otf');
+}
+
+/* style sheet for "A4" printing */
+@media print and (width: 21cm) and (height: 29.7cm) {
+  @page {
+     margin: 3cm;
+  }
+}
+
+/* style sheet for "letter" printing */
+@media print and (width: 8.5in) and (height: 11in) {
+  @page {
+      margin: 1in;
+  }
+}
+
+head, body {
+  padding: 0
+}
+
+body {
+  padding: 1em;
+  font-family: form, 'Courier New', Courier, monospace;
+}
+
+h1,h2 {
   text-align: center;
+  text-transform: uppercase;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+h2 {
+  font-size: 1.25em;
 }
