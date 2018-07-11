@@ -9,6 +9,7 @@ export default class Soldier extends Component {
       <div className="soldier">
         <table className="form">
           <tbody>
+
             <tr>
               <td>
                 <label>Name</label>
@@ -23,6 +24,19 @@ export default class Soldier extends Component {
                 {soldier.birthdate}
               </td>
             </tr>
+
+            <tr>
+              <td colspan="3" style={ {height:"3em"} }>
+                <label>Medals and Commodations</label>
+              </td>
+            </tr>
+
+            <tr>
+              <td colspan="3" style={ {height:"3em"} }>
+                <label>Remarks</label>
+              </td>
+            </tr>
+
           </tbody>
         </table>
       </div>

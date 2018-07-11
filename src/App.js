@@ -19,9 +19,7 @@ class App extends Component {
   constructor() {
     super();
     this.soldiers = [
-      this.createSoldier(1),
-      this.createSoldier(2),
-      this.createSoldier(3),
+      this.createSoldier(1)
     ];
   }
 
@@ -38,6 +36,7 @@ class App extends Component {
     const soldierList = this.soldiers.map(s => <Soldier data={s} key={s.id}/>);
     return (
       <div className="App">
+        <h1>Military Service Record</h1>
         { soldierList }
       </div>
     );
