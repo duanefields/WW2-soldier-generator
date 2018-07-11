@@ -16,6 +16,7 @@
     "eject": "react-scripts eject",
     "configure": "aws s3api create-bucket --bucket recruit.fastwombat.com && aws s3 website s3://recruit.fastwombat.com --index-document index.html --error-document index.html && aws s3api put-bucket-policy --bucket recruit.fastwombat.com --policy file://etc/bucketPolicy.json",
     "deploy": "aws s3 sync build/ s3://recruit.fastwombat.com",
-    "predeploy": "yarn run build"
+    "predeploy": "yarn run build",
+    "invalidate": "aws cloudfront create-invalidation --distribution-id ECNTNL3IMO3I4 --paths '/*'"
   }
 }
