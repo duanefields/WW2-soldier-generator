@@ -32,7 +32,8 @@ export default class Soldier extends Component {
             <tr>
               <td colspan="3">
                 <label>Permanent Address</label>
-                {soldier.streetAddress}
+                {soldier.streetAddress}<br/>
+                {soldier.addressCityState}
               </td>
 
               <td>

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Soldier from './components/Solider';
+import {groupBy} from 'lodash'
 
 /* eslint import/no-webpack-loader-syntax: off */
 import FirstNamesText from '!raw-loader!./data/firstNames.txt';
@@ -17,6 +18,7 @@ class App extends Component {
   firstNames = FirstNamesText.split('\n');
   lastNames = LastNamesText.split('\n');
   cities = CitiesText.split('\n');
+  citiesByState = groupBy(this.cities, (c) => c.split(',')[1])
   eyes = EyeColorText.split('\n');
   hair = HairColorText.split('\n');
   streetSuffixes = StreetSuffixes.split('\n');
@@ -41,8 +43,14 @@ class App extends Component {
     const weight = random.integer(140, 210);
     const height = random.integer(5*12, 6*12+4);
     const streetAddress = `${random.integer(1,5000)} ${random.pick(this.lastNames)} ${random.pick(this.streetSuffixes)}`
-
-    return { id, firstName, lastName, middleInitial, birthdate, birthplace, eyecolor, haircolor, weight, height, streetAddress }
+    const state = birthplace.split(',')[1]
+    let addressCityState = random.pick(this.citiesByState[state])
+    if (random.integer(0, 100) < 40) {
+      addressCityState = birthplace;
+    } else if (random.integer(0, 100) < 20) {
+      addressCityState = random.pick(this.cities)
+    }
+    return { id, firstName, lastName, middleInitial, birthdate, birthplace, eyecolor, haircolor, weight, height, streetAddress, addressCityState }
   }
 
   render() {
