@@ -44,9 +44,13 @@ export default class Soldier extends Component {
               </td>
               <td>
                 <label>Height</label>
+                {Math.floor(soldier.height / 12)}'
+                &nbsp;
+                {soldier.height % 12}"
               </td>
               <td>
                 <label>Weight</label>
+                {soldier.weight} lbs.
               </td>
             </tr>
         

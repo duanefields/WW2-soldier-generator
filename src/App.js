@@ -37,7 +37,9 @@ class App extends Component {
     const birthplace = random.pick(this.cities);
     const eyecolor = random.pick(this.eyes);
     const haircolor = random.pick(this.hair);
-    return { id, firstName, lastName, middleInitial, birthdate, birthplace, eyecolor, haircolor }
+    const weight = random.integer(140, 210);
+    const height = random.integer(5*12, 6*12+4);
+    return { id, firstName, lastName, middleInitial, birthdate, birthplace, eyecolor, haircolor, weight, height }
   }
 
   render() {
