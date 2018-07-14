@@ -36,9 +36,11 @@ export default class Soldier extends Component {
 
               <td>
                 <label>Color Eyes</label>
+                {soldier.eyecolor}
               </td>
               <td>
                 <label>Color Hair</label>
+                {soldier.haircolor}
               </td>
               <td>
                 <label>Height</label>

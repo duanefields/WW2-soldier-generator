@@ -6,6 +6,9 @@ import Soldier from './components/Solider';
 import FirstNamesText from '!raw-loader!./data/firstNames.txt';
 import LastNamesText from '!raw-loader!./data/lastNames.txt';
 import CitiesText from '!raw-loader!./data/cities.txt';
+import EyeColorText from '!raw-loader!./data/eyes.txt';
+import HairColorText from '!raw-loader!./data/hair.txt';
+
 
 import Random from 'random-js';
 const random = Random();
@@ -14,6 +17,9 @@ class App extends Component {
   firstNames = FirstNamesText.split('\n');
   lastNames = LastNamesText.split('\n');
   cities = CitiesText.split('\n');
+  eyes = EyeColorText.split('\n');
+  hair = HairColorText.split('\n');
+
   soldiers = [];
 
   constructor() {
@@ -29,7 +35,9 @@ class App extends Component {
     const middleInitial = String.fromCharCode(random.integer(65, 90));
     const birthdate = `${random.integer(1,12)}/${random.integer(1,30)}/${random.integer(1912,1922)}`;
     const birthplace = random.pick(this.cities);
-    return { id, firstName, lastName, middleInitial, birthdate, birthplace }
+    const eyecolor = random.pick(this.eyes);
+    const haircolor = random.pick(this.hair);
+    return { id, firstName, lastName, middleInitial, birthdate, birthplace, eyecolor, haircolor }
   }
 
   render() {
