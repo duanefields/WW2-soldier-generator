@@ -27,9 +27,7 @@ class App extends Component {
 
   constructor() {
     super();
-    this.soldiers = [
-      this.createSoldier(random.integer(1000000, 99999999))
-    ];
+    this.soldier = this.createSoldier(random.integer(1000000, 99999999));
   }
 
   createSoldier(id) {
@@ -54,11 +52,10 @@ class App extends Component {
   }
 
   render() {
-    const soldierList = this.soldiers.map(s => <Soldier data={s} key={s.id}/>);
     return (
-      <div>
+      <div className="paper">
         <h1>Military Service Record</h1>
-        { soldierList }
+        <Soldier soldier={this.soldier}/>
       </div>
     );
   }

@@ -3,7 +3,7 @@ import './Soldier.css';
 
 export default class Soldier extends Component {
   render() {
-    const soldier = this.props.data;
+    const soldier = this.props.soldier;
 
     return (
       <div className="soldier">
