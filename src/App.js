@@ -19,7 +19,7 @@ class App extends Component {
   constructor() {
     super();
     this.soldiers = [
-      this.createSoldier(1)
+      this.createSoldier(random.integer(1000000, 99999999))
     ];
   }
 

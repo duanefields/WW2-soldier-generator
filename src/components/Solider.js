@@ -17,6 +17,7 @@ export default class Soldier extends Component {
               </td>
               <td>
                 <label>Serial No.</label>
+                {soldier.id}
               </td>
               <td colspan="2">
                 <label>Place of Birth</label>
