@@ -7,6 +7,6 @@ var rl = readline.createInterface({
 });
 
 rl.on('line', function (line) {
-  string = line.trim();
+  string = line.trim().toLowerCase();
   console.log(string.charAt(0).toUpperCase() + string.slice(1));
 });
