@@ -69,7 +69,6 @@ Adamo
 Adams
 Adams/valachi
 Adamsiii
-Adamsjr
 Adamson
 Adan
 Aday
@@ -135,7 +134,7 @@ Aiello
 Aiken
 Aime
 Ainsworth
-Airsmanjr
+Airsman
 Aitken
 Aitkens
 Aiuppy
@@ -181,7 +180,6 @@ Albery
 Albrecht
 Albretsen
 Albright
-Albrightjr
 Albritton
 Alburez-alvarado
 Albury
@@ -250,7 +248,6 @@ Allegretto
 Allen
 Allende
 Allender
-Allenjr
 Alley
 Allgaier
 Allgood
@@ -314,7 +311,7 @@ Alverez-collazo
 Alverio
 Alverson
 Alvis
-Alvis/o'vallonjr
+Alvis/o'vallon
 Alyn
 Alzamora
 Alzugaray
@@ -374,7 +371,6 @@ Anderjack
 Anders
 Andersen
 Anderson
-Andersonjr
 Andino
 Andis
 Andrade
@@ -436,7 +432,7 @@ Antone
 Antonelli
 Antonietti
 Antonio
-Antoonjr
+Antoon
 Antrim
 Antuna
 Antunez
@@ -599,14 +595,12 @@ Asencio
 Ash
 Ashbranner
 Ashby
-Ashbyjr
 Ashcraft
 Ashcroft
 Ashe
 Asher
 Ashford
 Ashley
-Ashleyjr
 Ashlock
 Ashmore
 Ashmun
@@ -717,8 +711,8 @@ Ayala-gonzalez
 Ayala-martinez
 Ayala-villamizar
 Aycock
+Aydelott
 Aydelotte
-Aydelottjr
 Ayers
 Aylesworth
 Ayotte
@@ -797,7 +791,6 @@ Baisden
 Baitsholts
 Bajric
 Baker
-Bakerjr
 Bakkala
 Bakke
 Bakri
@@ -910,7 +903,6 @@ Barfield
 Barfoot
 Barga
 Barger
-Bargerjr
 Bargeron
 Bargo
 Barham
@@ -975,7 +967,6 @@ Barris
 Barritt
 Barro
 Barron
-Barronjr
 Barros
 Barrow
 Barrows
@@ -1422,7 +1413,7 @@ Bienek
 Bienes
 Bierly
 Bierman
-Biesanzjr
+Biesanz
 Bieser
 Biest
 Bigbee
@@ -1522,14 +1513,13 @@ Blackett
 Blackford
 Blackhall
 Blackhurst
-Blackjr
 Blackledge
 Blackman
 Blackmer
 Blackmon
 Blackowski
 Blackshear
-Blacksteadjr
+Blackstead
 Blackston
 Blackwelder
 Blackwell
@@ -1614,7 +1604,7 @@ Bloxham
 Bloxsom
 Blue
 Blum
-Blumejr
+Blume
 Blundell
 Blydenburgh
 Blyock
@@ -1653,7 +1643,6 @@ Bodie
 Bodiford
 Bodiker
 Bodine
-Bodinejr
 Bodman
 Bodner
 Bodoy
@@ -1742,7 +1731,6 @@ Bonaventure
 Bonchea
 Bonckowski
 Bond
-Bondjr
 Bonds
 Bone
 Bonebrake
@@ -1902,7 +1890,6 @@ Boxleye
 Boyan
 Boyce
 Boyd
-Boydjr
 Boydston
 Boyer
 Boyers
@@ -1914,7 +1901,6 @@ Boykin
 Boylan
 Boyle
 Boyles
-Boylesjr
 Boyne
 Boza
 Bozarth
@@ -2014,7 +2000,6 @@ Breckon
 Bree
 Breed
 Breeden
-Breedenjr
 Breeding
 Breedlove
 Breen
@@ -2060,7 +2045,6 @@ Bridgeman
 Bridgens
 Bridger
 Bridges
-Bridgesjr
 Bridgewater
 Briehn
 Briggs
@@ -2223,12 +2207,10 @@ Bruzon
 Bruzon-garcia
 Bryan
 Bryant
-Bryantjr
 Bryson
 Bubb
 Bubik
 Buchanan
-Buchananjr
 Bucher
 Bucherie
 Buchheit
@@ -2247,7 +2229,6 @@ Buckhalter
 Buckius
 Buckles
 Buckley
-Buckleyjr
 Buckman
 Buckner
 Bucy
@@ -2366,7 +2347,7 @@ Burksiii
 Burleson
 Burley
 Burlingame
-Burlisonjr
+Burlison
 Burmingham
 Burner
 Burnett
@@ -2423,7 +2404,6 @@ Butcher
 Buterbaugh
 Buth
 Butler
-Butlerjr
 Butlin
 Butner
 Butt
@@ -2455,7 +2435,6 @@ Bylo
 Bynaker
 Bynum
 Byrd
-Byrdjr
 Byrne
 Byrnes
 Byrnside
@@ -2487,10 +2466,8 @@ Cadmus-diaz
 Caffrey
 Caggiano
 Cagle
-Caglejr
 Cahanding
 Cahill
-Cahilljr
 Cahoe
 Cahours
 Caicedo
@@ -2727,7 +2704,6 @@ Carnrike
 Caron
 Carouthers
 Carpenter
-Carpenterjr
 Carpentier
 Carpino
 Carpio
@@ -2757,7 +2733,6 @@ Carris
 Carrizo
 Carrocci
 Carroll
-Carrolljr
 Carror
 Carrow
 Carrozza
@@ -2773,7 +2748,6 @@ Cartagena-rivera
 Cartaya
 Carte
 Carter
-Carterjr
 Cartwright
 Caruso
 Caruthers
@@ -2854,7 +2828,6 @@ Castleberry
 Castleman
 Castner
 Casto
-Castojr
 Castone
 Castor
 Castro
@@ -2879,7 +2852,6 @@ Cathey
 Cati
 Catinella
 Catlett
-Catlettjr
 Catlin
 Cato
 Caton
@@ -2992,13 +2964,11 @@ Champ
 Champion
 Chanax
 Chance
-Chancejr
 Chancellor
 Chancey
 Chandler
 Chaney
-Chaneyjr
-Chaneyworthjr
+Chaneyworth
 Chang
 Channell
 Chanto
@@ -3013,7 +2983,6 @@ Chapne
 Chapotin
 Chappel
 Chappell
-Chappelljr
 Chapple
 Chappory
 Charafardin
@@ -3035,7 +3004,6 @@ Chartrand
 Chasbbar
 Chase
 Chastain
-Chastainjr
 Chasten
 Chatelain
 Chateng
@@ -3237,7 +3205,6 @@ Clardy
 Clark
 Clark-padot
 Clarke
-Clarkjr
 Clarkson
 Clarkston
 Claro
@@ -3273,7 +3240,6 @@ Clemons
 Clemts
 Clendenin
 Clenney
-Clenneyjr
 Clero
 Cleveland
 Clevenger
@@ -3284,7 +3250,6 @@ Clifford
 Clifton
 Cline
 Clinedinst
-Clinejr
 Clingerman
 Clink
 Clinkscales
@@ -3379,10 +3344,8 @@ Cole
 Cole-boucher
 Cole/eilijah
 Colee
-Colejr
 Coleman
 Coles
-Colesjr
 Coleson
 Coletto
 Coley
@@ -3623,7 +3586,7 @@ Cosat
 Cosco
 Cosgrove
 Coshatt
-Cosiminijr
+Cosimini
 Cosme
 Coss
 Cossey
@@ -3650,10 +3613,8 @@ Cotterman
 Cotto
 Cotton
 Cottrell
-Cottrelljr
 Cotty
 Couch
-Couchjr
 Coudrey
 Couey
 Coughlin
@@ -3699,7 +3660,6 @@ Cowger
 Cowgill
 Cowles
 Cox
-Coxjr
 Coxwell
 Coy
 Coyle
@@ -3723,7 +3683,6 @@ Crago
 Craig
 Craigg
 Craighead
-Craigjr
 Crain
 Craine
 Crall
@@ -3811,7 +3770,6 @@ Crockrell
 Croff
 Crofford
 Croft
-Croftjr
 Croker
 Cromer
 Cromlish
@@ -3959,7 +3917,6 @@ Currington
 Curry
 Curtis
 Curtisiii
-Curtisjr
 Curtiss
 Curtner
 Curtsinger
@@ -4131,7 +4088,6 @@ Davenport
 Davey
 David
 Davidson
-Davidsonjr
 Davie
 Davies
 Davila
@@ -4142,7 +4098,6 @@ Davini
 Davis
 Davis/bridges
 Davisiii
-Davisjr
 Davison
 Daviss
 Davlin
@@ -4702,7 +4657,6 @@ Dodge
 Dodgens
 Dodier
 Dodson
-Dodsonjr
 Doeden
 Doeinck
 Doerfler
@@ -4808,7 +4762,6 @@ Doshier
 Doss
 Dossiii
 Dossiv
-Dossjr
 Doster
 Doten
 Dotson
@@ -4830,7 +4783,6 @@ Doval
 Dovan
 Dove
 Dover
-Doverjr
 Doverspike
 Dovich
 Dovidio
@@ -4979,7 +4931,6 @@ Dunaway
 Dunbabin
 Dunbar
 Duncan
-Duncanjr
 Duncombe
 Dundee
 Dunfee
@@ -5028,7 +4979,7 @@ Durasoff
 Durbin
 Durby
 Durden
-Durelljr
+Durell
 Durfee
 Durfey
 Durham
@@ -5350,7 +5301,6 @@ Erskine
 Erts
 Ervie
 Ervin
-Ervinjr
 Erwin
 Escalante
 Escalante-diaz
@@ -5423,7 +5373,6 @@ Eustis
 Eutsler
 Evalle
 Evans
-Evansjr
 Evanuk
 Eveland
 Everage
@@ -5485,13 +5434,13 @@ Fahlman
 Faiella
 Failey
 Fain
+Fair
 Fairall
 Fairbanks
 Fairbrother
 Fairchild
 Faircloth
 Fairfield
-Fairjr
 Fairman
 Fairweather
 Fait
@@ -5564,7 +5513,7 @@ Faulk
 Faulkenberg
 Faulkner
 Faulkstick
-Fausnaughtjr
+Fausnaught
 Faust
 Faustini
 Faustino
@@ -5625,7 +5574,6 @@ Fellows
 Felske
 Felt
 Felton
-Feltonjr
 Felty
 Fender
 Fenech
@@ -5730,7 +5678,7 @@ Figueroa-zayas
 Figura
 Fijon
 Fike
-Fikesjr
+Fikes
 Filancia
 Files
 Filingeri
@@ -5771,12 +5719,10 @@ Firganza
 Firsdon
 Firth
 Fischer
-Fischerjr
 Fiscus
 Fish
 Fishbone
 Fisher
-Fisherjr
 Fisk
 Fissell
 Fitch
@@ -5796,7 +5742,6 @@ Flagg
 Flaherty
 Flake
 Flanagan
-Flanaganjr
 Flanary
 Flanders
 Flanery
@@ -5843,11 +5788,9 @@ Flournoy
 Flowers
 Flowersii
 Floyd
-Floydjr
 Flude
 Flurry
 Flynn
-Flynnjr
 Fobbe
 Fochs
 Focht
@@ -5954,7 +5897,7 @@ Fox
 Foxworth
 Foxx
 Foy
-Foylesjr
+Foyles
 Frabasilio
 Frady
 Fraga
@@ -5963,7 +5906,6 @@ Frail
 Fraiser
 Frake
 Frakes
-Frakesjr
 Fraleigh
 Fraley
 Fralick
@@ -6020,7 +5962,6 @@ Fredericks
 Frederikson
 Fredez
 Fredrickson
-Fredricksonjr
 Free
 Freeby
 Freed
@@ -6051,7 +5992,6 @@ Freund
 Freundlich
 Frew
 Frey
-Freyjr
 Freyre
 Freytes
 Freytiz
@@ -6114,7 +6054,6 @@ Fulk
 Fulkerson
 Fullard
 Fuller
-Fullerjr
 Fullmer
 Fullon
 Fullwood
@@ -6139,7 +6078,6 @@ Furnas
 Furney
 Furniss
 Furr
-Furrjr
 Furtado
 Fury
 Fusco
@@ -6360,8 +6298,8 @@ Gaudette
 Gaudioso
 Gaudreau
 Gauer
+Gaul
 Gaulden
-Gauljr
 Gaulrapp
 Gault
 Gause
@@ -6403,7 +6341,6 @@ Gebert
 Geboe
 Gebrael
 Geddes
-Geddesjr
 Geddie
 Geddings
 Geddis
@@ -6518,7 +6455,6 @@ Gibby
 Giblin
 Gibout
 Gibson
-Gibsonjr
 Giddens
 Giddings
 Gideon
@@ -6535,7 +6471,6 @@ Gignilliat
 Gil
 Gilb
 Gilbert
-Gilbertjr
 Gilboy
 Gilbreth
 Gilbrook
@@ -6660,7 +6595,6 @@ Goers
 Goetschius
 Goetz
 Goff
-Goffjr
 Goforth
 Goggins
 Goguen
@@ -6735,7 +6669,6 @@ Goodin
 Goodine
 Gooding
 Goodman
-Goodmanjr
 Goodnight
 Goodrich
 Goodson
@@ -6757,7 +6690,7 @@ Gorgas
 Gorham
 Gormady
 Gorman
-Gormleyjr
+Gormley
 Gornall
 Gornto
 Gorrill
@@ -6858,7 +6791,6 @@ Grawbadger
 Gray
 Graybeal
 Grayden
-Grayjr
 Grayson
 Graziani
 Graziano
@@ -6872,9 +6804,7 @@ Greene
 Greenfield
 Greenhalge
 Greenhaw
-Greenhawjr
 Greenier
-Greenjr
 Greenlaw
 Greenleaf
 Greenlee
@@ -6926,7 +6856,7 @@ Grigg
 Griggs
 Griglik
 Grigsby
-Grilljr
+Grill
 Grim
 Grimes
 Grimm
@@ -6969,7 +6899,6 @@ Groshon
 Gross
 Grossberndt
 Grosse
-Grossjr
 Grossman
 Grossmann
 Grosso
@@ -6981,7 +6910,6 @@ Grourke
 Grove
 Grover
 Groves
-Grovesjr
 Grow
 Growalt
 Grubaugh
@@ -7119,7 +7047,6 @@ Gwartney
 Gwathney
 Gwin
 Gwinn
-Gwinnjr
 Gwyn
 Gyalog
 Gymoty
@@ -7213,7 +7140,6 @@ Hallett
 Hallicy
 Halliday
 Hallin
-Halljr
 Hallman
 Hallmark
 Hallock
@@ -7237,7 +7163,6 @@ Hambers
 Hamblin
 Hamburg
 Hamby
-Hambyjr
 Hamed
 Hameedio
 Hamel
@@ -7245,7 +7170,6 @@ Hamelin
 Hamiel
 Hamil
 Hamilton
-Hamiltonjr
 Hamlin
 Hamm
 Hammack
@@ -7259,7 +7183,6 @@ Hammersley
 Hammett
 Hammill
 Hammitt
-Hammjr
 Hammock
 Hammon
 Hammond
@@ -7280,7 +7203,6 @@ Hance
 Hancock
 Hancotte
 Hand
-Handjr
 Handley
 Handlon
 Handshoe
@@ -7295,7 +7217,7 @@ Hankey
 Hankins
 Hanks
 Hanley
-Hanlinjr
+Hanlin
 Hanlon
 Hann
 Hanna
@@ -7387,10 +7309,8 @@ Harrill
 Harriman
 Harrington
 Harris
-Harrisjr
 Harrison
 Harrison/abdul-hakim
-Harrisonjr
 Harrod
 Harrold
 Harrover
@@ -7486,7 +7406,6 @@ Hawes
 Hawk
 Hawke
 Hawkins
-Hawkjr
 Hawks
 Hawley
 Haworth
@@ -7504,7 +7423,6 @@ Haymes
 Haymond
 Hayner
 Haynes
-Haynesjr
 Haynoski
 Hayre
 Hays
@@ -7535,7 +7453,6 @@ Heater
 Heath
 Heathcoat
 Heathcock
-Heathjr
 Heaton
 Heavener
 Hebb
@@ -7607,12 +7524,10 @@ Hellyer
 Helm
 Helmich
 Helms
-Helmsjr
 Helmuth
 Helphensteine
 Helsley
 Helton
-Heltonjr
 Helvey
 Hembey
 Hembree
@@ -7634,7 +7549,6 @@ Hendren
 Hendricks
 Hendrickson
 Hendrix
-Hendrixjr
 Hendrixson
 Hendry
 Henington
@@ -7707,7 +7621,6 @@ Hernandez-rosa
 Hernandez-velasquez
 Hernandez-ventura
 Hernandezgalvan
-Hernandezjr
 Herndon
 Herr
 Herrada
@@ -7722,7 +7635,6 @@ Herrerra
 Herrick
 Herrin
 Herring
-Herringjr
 Herrington
 Herron
 Hersey
@@ -7877,7 +7789,6 @@ Hoagland
 Hoard
 Hobart
 Hobbs
-Hobbsjr
 Hobby
 Hobdy
 Hobgood
@@ -7978,7 +7889,6 @@ Holt
 Holter
 Holtgard
 Holthaus
-Holtjr
 Holton
 Holtslander
 Holtsr
@@ -8011,11 +7921,9 @@ Hood
 Hoodenpyle
 Hook
 Hooker
-Hookerjr
 Hooks
 Hoopaugh
 Hooper
-Hooperjr
 Hoopes
 Hooten
 Hoots
@@ -8124,7 +8032,6 @@ Hryniewich
 Htwe
 Huba
 Hubbard
-Hubbardjr
 Hubbell
 Hubble
 Hubbs
@@ -8210,7 +8117,6 @@ Hunsberger
 Hunsinger
 Hunt
 Hunter
-Hunterjr
 Huntington
 Huntley
 Huntoon
@@ -8241,7 +8147,6 @@ Huston
 Hutchason
 Hutchcraft
 Hutchens
-Hutchensjr
 Hutchenson
 Hutcherson
 Hutches
@@ -8285,7 +8190,7 @@ Ibar
 Ibarra
 Ibison
 Ibrahim
-Iburgjr
+Iburg
 Ice
 Ickenroth
 Idiaquez
@@ -8390,7 +8295,6 @@ Jackman
 Jacks
 Jackson
 Jackson/moore
-Jacksonjr
 Jacob
 Jacobbauski
 Jacobo
@@ -8550,10 +8454,8 @@ Johnroe
 Johns
 Johnson
 Johnson/phenoexousiazo
-Johnsonjr
 Johnston
 Johnstone
-Johnstonjr
 Joiner
 Joles
 Joll
@@ -8565,11 +8467,9 @@ Jonasson
 Jones
 Jones/wilkins
 Jonesii
-Jonesjr
 Jongtrakul
 Joplin
 Jordan
-Jordanjr
 Jorde
 Jordingiii
 Jordon
@@ -8656,7 +8556,6 @@ Kahok
 Kail
 Kailing
 Kain
-Kainjr
 Kairat
 Kairis
 Kaiser
@@ -8792,7 +8691,7 @@ Keifer
 Keil
 Keinz
 Keiper
-Keirseyjr
+Keirsey
 Keisacker
 Keister
 Keith
@@ -8804,7 +8703,7 @@ Kell
 Kellar
 Kellat
 Kelleher
-Kellensworthjr
+Kellensworth
 Keller
 Kellerson
 Kellett
@@ -8814,7 +8713,6 @@ Kellom
 Kellow
 Kellum
 Kelly
-Kellyjr
 Kelsey
 Kelso
 Kelsoe
@@ -8822,7 +8720,6 @@ Kelton
 Kemm
 Kemp
 Kemper
-Kempjr
 Kendall
 Kendell
 Kendle
@@ -8834,7 +8731,7 @@ Kenly
 Kennard
 Kennedy
 Kenney
-Kenningtonjr
+Kennington
 Kennon
 Kenny
 Kensler
@@ -8896,7 +8793,6 @@ Kicklighter
 Kickliter
 Kidd
 Kidder
-Kiddjr
 Kiddsr
 Kidwell
 Kiedaisch
@@ -8966,7 +8862,6 @@ Kingcade
 Kingery
 Kingham
 Kingii
-Kingjr
 Kingman
 Kingsley
 Kingsolver
@@ -9021,7 +8916,7 @@ Kiser
 Kish
 Kisling
 Kisor
-Kissingerjr
+Kissinger
 Kissire
 Kitchell
 Kitchen
@@ -9350,7 +9245,6 @@ Kwiatkowski
 Kyhl
 Kykendall
 Kyle
-Kylejr
 Kyser
 L heureux
 La page
@@ -9419,7 +9313,7 @@ Lageschulte
 Laginess
 Lagiorgia
 Lagitch
-Lagnionjr
+Lagnion
 Lagondy
 Lagos
 Lagrande
@@ -9471,7 +9365,7 @@ Lambsr
 Lameka
 Lamere
 Lamerton
-Lamierjr
+Lamier
 Lamkin
 Lamm
 Lammers
@@ -9530,7 +9424,6 @@ Langely
 Langen
 Langer
 Langford
-Langfordjr
 Langill
 Langlais
 Langler
@@ -9606,7 +9499,7 @@ Larrazabal
 Larrea
 Larrinaga
 Larrison
-Larrowjr
+Larrow
 Larry
 Larsen
 Larson
@@ -9784,7 +9677,6 @@ Legere
 Legg
 Leggans
 Leggett
-Leggettjr
 Legrand
 Legrant
 Lehew
@@ -9899,7 +9791,6 @@ Lewandowski
 Lewelling
 Lewers
 Lewis
-Lewisjr
 Lewondowski
 Ley
 Leyrer
@@ -9950,7 +9841,6 @@ Linares-martinez
 Linaris
 Lincheta
 Lincoln
-Lincolnjr
 Lind
 Lindbom
 Linde
@@ -9980,7 +9870,7 @@ Link
 Linn
 Linsinbigler
 Linssens
-Linthicumjr
+Linthicum
 Linton
 Linville
 Linz
@@ -10058,7 +9948,7 @@ Locicero
 Lock
 Lockard
 Locke
-Lockerbyjr
+Lockerby
 Lockey
 Lockhart
 Locklear
@@ -10427,7 +10317,6 @@ Madewell
 Madigan
 Madill
 Madison
-Madisonjr
 Madonia
 Madore
 Madray
@@ -10843,7 +10732,6 @@ Mathias
 Mathieu
 Mathis
 Mathis-mincey
-Mathisjr
 Matiano
 Matias
 Matlack
@@ -11016,7 +10904,6 @@ Mcclusky
 Mccollom
 Mccollough
 Mccollum
-Mccollumjr
 Mccomas
 Mccombs
 Mccommon
@@ -11024,7 +10911,6 @@ Mcconnaha
 Mcconnaughy
 Mcconnell
 Mccool
-Mccooljr
 Mccord
 Mccorkle
 Mccormack
@@ -11035,7 +10921,6 @@ Mccourt
 Mccowen
 Mccown
 Mccoy
-Mccoyjr
 Mccracken
 Mccrae
 Mccraney
@@ -11081,7 +10966,6 @@ Mcdevitt
 Mcdivitt
 Mcdole
 Mcdonald
-Mcdonaldjr
 Mcdonell
 Mcdonough
 Mcdorman
@@ -11124,7 +11008,6 @@ Mcgarrigle
 Mcgarry
 Mcgauley
 Mcgee
-Mcgeejr
 Mcgehee
 Mcghee
 Mcgill
@@ -11171,7 +11054,7 @@ Mcintire
 Mcintosh
 Mcinturff
 Mcintyre
-Mciverjr
+Mciver
 Mcjunkins
 Mckamie
 Mckay
@@ -11204,7 +11087,6 @@ Mckinley
 Mckinney
 Mckinnie
 Mckinnon
-Mckinnonjr
 Mckinny
 Mckinstery
 Mckinstry
@@ -11569,7 +11451,6 @@ Millan-colon
 Millang
 Millar
 Miller
-Millerjr
 Millersr
 Millett
 Millette
@@ -11597,7 +11478,7 @@ Milsm
 Milstead
 Milton
 Milum
-Mimbsjr
+Mimbs
 Mims
 Minafo
 Minahan
@@ -11664,7 +11545,6 @@ Misuraca
 Mitch
 Mitchael
 Mitchell
-Mitchelljr
 Mitchem
 Mitchner
 Mitchum
@@ -11677,7 +11557,6 @@ Mitts
 Mix
 Mixell
 Mixon
-Mixonjr
 Mizak
 Mizell
 Mizelle
@@ -11740,7 +11619,7 @@ Mollica
 Mollineda
 Molloy
 Molnar
-Molpusjr
+Molpus
 Molter
 Mom
 Monaco
@@ -11821,7 +11700,6 @@ Mooneyham
 Moore
 Moorehead
 Moorehouse
-Moorejr
 Moorhouse
 Moorman
 Mooty
@@ -11868,7 +11746,6 @@ Morey
 Morffy
 Morgado
 Morgan
-Morganjr
 Morganstern
 Morganti
 Mori
@@ -11896,7 +11773,6 @@ Morrison
 Morrissey
 Morrow
 Morse
-Morsejr
 Mortellaro
 Mortenson
 Morter
@@ -11913,7 +11789,6 @@ Moseley
 Mosely
 Moser
 Moses
-Mosesjr
 Mosher
 Moshinski
 Mosier
@@ -11952,7 +11827,7 @@ Mousaw
 Mouse
 Mouser
 Mousseau
-Mowanjr
+Mowan
 Mowery
 Mowry
 Moxley
@@ -12106,7 +11981,7 @@ Nadig
 Nadler
 Nadley
 Nadreau
-Nadyjr
+Nady
 Nae
 Nagel
 Nagell
@@ -12279,7 +12154,6 @@ Newsom
 Newsome
 Newson
 Newton
-Newtonjr
 Newville
 Nez
 Ng
@@ -12404,7 +12278,6 @@ Northcott
 Northrup
 Northweather
 Norton
-Nortonjr
 Norush
 Norvell
 Norwood
@@ -12489,7 +12362,7 @@ O rourke
 O toole
 O'bryant
 O'connell
-O'deajr
+O'dea
 O'keefe
 O'neal
 O'neil
@@ -12568,7 +12441,7 @@ Olds
 Oleary
 Olejniczak
 Olenchak
-Olesonjr
+Oleson
 Oleyar
 Olger
 Olgin
@@ -12822,7 +12695,6 @@ Pagan
 Pagani-carrion
 Pagano
 Page
-Pagejr
 Pagliaro
 Pagola
 Pahl
@@ -12965,7 +12837,6 @@ Parry-hoepfner
 Parsley
 Parslow
 Parson
-Parsonjr
 Parsons
 Partain
 Partham
@@ -13010,7 +12881,6 @@ Patsones
 Patterson
 Patti
 Patton
-Pattonjr
 Paty
 Pauff
 Paugam
@@ -13020,7 +12890,6 @@ Paulette
 Pauley
 Pauli
 Paulino
-Pauljr
 Paulk
 Paull
 Paulmino
@@ -13256,7 +13125,6 @@ Perry
 Perryman
 Persaud
 Persinger
-Persingerjr
 Personette
 Persong
 Persons
@@ -13315,7 +13183,6 @@ Pettus
 Pettway
 Petty
 Pettyjohn
-Pettyjr
 Pettysr
 Petutsky
 Petz
@@ -13344,7 +13211,7 @@ Phennicie
 Phetteplace
 Philipp
 Philips
-Phillippejr
+Phillippe
 Phillips
 Philman
 Philpot
@@ -13593,7 +13460,6 @@ Pooler
 Pooley
 Poore
 Pope
-Popejr
 Popjes
 Popkin
 Popnoe
@@ -13709,7 +13575,6 @@ Prevostii
 Prew
 Prianti
 Price
-Pricejr
 Pricer
 Prichard
 Prickett
@@ -13948,7 +13813,6 @@ Raimbeau
 Rain
 Rainer
 Raines
-Rainesjr
 Rainey
 Rains
 Rainwater
@@ -14139,12 +14003,10 @@ Reece
 Reed
 Reeder
 Reedii
-Reedjr
 Reel
 Reep
 Rees
 Reese
-Reesejr
 Reesor
 Reeves
 Reffett
@@ -14167,7 +14029,6 @@ Reichard
 Reichert
 Reichstein
 Reid
-Reidjr
 Reidy
 Reigelsperger
 Reigh
@@ -14280,7 +14141,6 @@ Reykowski
 Reymone
 Reyna
 Reynolds
-Reynoldsjr
 Reynoso
 Reynoso-acosta
 Reyome
@@ -14322,7 +14182,6 @@ Ricciardi
 Rice
 Rich
 Richard
-Richardjr
 Richards
 Richardson
 Richer
@@ -14332,7 +14191,6 @@ Richey
 Richie
 Richiez
 Richmond
-Richmondjr
 Richter
 Ricigliano
 Rick
@@ -14491,16 +14349,13 @@ Roberts
 Roberts-paladino
 Robertsiii
 Robertson
-Robertsonjr
 Robertssr
 Robey
 Robida
 Robideaux
 Robinette
 Robins
-Robinsjr
 Robinson
-Robinsonjr
 Robison
 Robledo
 Robledo-ramos
@@ -14534,7 +14389,7 @@ Rode
 Rodenberg
 Roderick
 Rodgers
-Rodgersonjr
+Rodgerson
 Rodier
 Rodman
 Rodneyscott
@@ -14575,7 +14430,6 @@ Rogan
 Roger
 Rogers
 Rogers/manning
-Rogersjr
 Rogowski
 Rogriguez
 Rohn
@@ -14630,7 +14484,6 @@ Rook
 Rooker
 Rooks
 Rooksberry
-Rooksjr
 Rooney
 Roop
 Roosa
@@ -14664,7 +14517,7 @@ Rosbury
 Roscandido
 Rose
 Rosebach
-Rosebeckjr
+Rosebeck
 Rosebrugh
 Rosell
 Rosemellia
@@ -14691,7 +14544,6 @@ Rossetti
 Rosshirt
 Rossi
 Rossiter
-Rossjr
 Rosson
 Rote
 Rotelli
@@ -14768,7 +14620,6 @@ Rubio
 Rubright
 Rucci
 Rucker
-Ruckerjr
 Ruckman
 Rud
 Rudasill
@@ -14821,7 +14672,7 @@ Runyan
 Runyon
 Ruocco
 Rupert
-Ruplejr
+Ruple
 Rupp
 Ruppel
 Rupprecht
@@ -15127,7 +14978,7 @@ Saucedo-miranda
 Saucer
 Sauder
 Sauers
-Sauerwinjr
+Sauerwin
 Sauger
 Saul
 Sauleda
@@ -15151,7 +15002,6 @@ Savala
 Savarese
 Savary
 Savell
-Savelljr
 Savero
 Savery
 Savich
@@ -15316,7 +15166,7 @@ Schrager
 Schramm
 Schrank
 Schreck
-Schreckhisejr
+Schreckhise
 Schreer
 Schrembs
 Schrey
@@ -15429,10 +15279,10 @@ Setliff
 Settlemire
 Settlemoir
 Severn
-Sevierjr
+Sevier
 Sewell
 Sexton
-Seyllerjr
+Seyller
 Shackelford
 Shadwick
 Shafer
@@ -15450,7 +15300,6 @@ Sheerer
 Sheets
 Sheff
 Sheffield
-Sheffieldjr
 Shelley
 Shelly
 Shelton
@@ -15501,7 +15350,6 @@ Silva-saez
 Silvey
 Simmermaker
 Simmons
-Simmonsjr
 Simone
 Simons
 Simpson
@@ -15523,7 +15371,7 @@ Skiver
 Skogen
 Slack
 Slaten
-Slaterjr
+Slater
 Slaughter
 Slayden
 Slayton
@@ -15535,13 +15383,11 @@ Small
 Smalley
 Smallwood
 Smart
-Smartjr
 Smathers
 Smith
 Smith/kling
 Smithiii
-Smithjr
-Smithwickjr
+Smithwick
 Smothers
 Smullin
 Sneed
@@ -15551,7 +15397,7 @@ Snider
 Snow
 Snoxhill
 Snyder
-Solisjr
+Solis
 Sollender
 Solomon
 Sorg
@@ -15564,7 +15410,6 @@ South
 Southard
 Souther
 Southerland
-Southerlandjr
 Southern
 Soward
 Sowell
@@ -15614,7 +15459,6 @@ Standridge
 Stanford
 Stangl
 Stanley
-Stanleyjr
 Stanphill
 Stansberry
 Stanton
@@ -15662,23 +15506,20 @@ Stoicu
 Stokes
 Stoll
 Stone
-Stonebrakerjr
-Stonejr
+Stonebraker
 Stoner
 Stonewalter
 Storment
 Stormes
 Storms
 Story
-Stottsjr
+Stotts
 Stout
-Stoutjr
 Stover
 Stowell
 Stracener
-Stracenerjr
 Strafaci
-Strainjr
+Strain
 Strange
 Strawbridge
 Strawhacker
@@ -15702,7 +15543,6 @@ Strowbridge
 Strozier
 Struckle
 Stuart
-Stuartjr
 Stubbs
 Stuckey
 Studdard
@@ -15712,7 +15552,7 @@ Stufflebeam
 Stump
 Sturgis
 Stutesman
-Suarezjr
+Suarez
 Sublett
 Suchey
 Suggs
@@ -15734,7 +15574,6 @@ Swadleysr
 Swaffar
 Swaim
 Swain
-Swainjr
 Swanner
 Swanson
 Swartz
@@ -15771,7 +15610,6 @@ Tate
 Tate-lee
 Taylor
 Tayloriii
-Taylorjr
 Teague
 Teal
 Teas
@@ -15788,13 +15626,13 @@ Tester
 Tew
 Thabit
 Thacker
-Thalackerjr
+Thalacker
 Thalhammer
 Tharp
 Thatcher
 Therrien
 Thessing
-Thibaultjr
+Thibault
 Thibodeaux
 Thiels
 Thomas
@@ -15802,7 +15640,6 @@ Thomasii
 Thomason
 Thomasson
 Thompson
-Thompsonjr
 Thoms
 Thomsen
 Thornberry
@@ -15838,7 +15675,7 @@ Tindle
 Tinkes
 Tinkle
 Tinkleii
-Tipplerjr
+Tippler
 Tipps
 Tipton
 Tisdale
@@ -15889,14 +15726,13 @@ Troy
 Trudo
 True
 Truelove
-Truettjr
+Truett
 Trull
 Trumbull
 Trusley
 Tubbs
 Tuck
 Tucker
-Tuckerjr
 Tuers
 Tuggle
 Tumey
@@ -15980,7 +15816,6 @@ Volner
 Vone
 Vonholt
 Voyles
-Voylesjr
 Waddle
 Wade
 Wadkins
@@ -15988,7 +15823,7 @@ Wadlington
 Wadsworth
 Wages
 Waggle
-Waggonerjr
+Waggoner
 Wagley
 Wagner
 Wagster
@@ -16023,7 +15858,7 @@ Walton
 Wanders
 Wangler
 Wantiii
-Warbrittonjr
+Warbritton
 Ward
 Warden
 Ware
@@ -16046,12 +15881,11 @@ Watsoniii
 Watsoniv
 Watters
 Watts
-Watts/salaamjr
+Watts/salaam
 Way
 Weathereal
 Weathers
 Weaver
-Weaverjr
 Webb
 Webber
 Weber
@@ -16064,7 +15898,7 @@ Weems
 Weets
 Weger
 Weier
-Weikeljr
+Weikel
 Weir
 Weiser
 Welch
@@ -16099,14 +15933,13 @@ White
 Whited
 Whitehead
 Whiteii
-Whitejr
 Whitelaw
 Whiteley
 Whiteside
 Whitham
 Whitley
 Whitlow
-Whitmerjr
+Whitmer
 Whitmire
 Whitney
 Whitsitt
@@ -16122,7 +15955,7 @@ Wicke
 Wicks
 Widder
 Widener
-Wieczorekjr
+Wieczorek
 Wiese
 Wiggins
 Wigginton
@@ -16146,10 +15979,9 @@ Willbourn
 Willet
 Willfond
 Williams
-Williamsjr
 Williamson
 Willie
-Willifordjr
+Williford
 Willis
 Willmuth
 Willyard
@@ -16157,7 +15989,6 @@ Wilmot
 Wilmoth
 Wilson
 Wilson-moore
-Wilsonjr
 Wiman
 Wimberly
 Winberry
@@ -16206,9 +16037,7 @@ Woodruff
 Woodrum
 Woods
 Woods/abdul-rahman
-Woodsjr
 Woodson
-Woodsonjr
 Woodsr
 Woodssr
 Woodward
@@ -16220,7 +16049,6 @@ Workman
 Wortham
 Worthem
 Worthen
-Worthenjr
 Wray
 Wren
 Wrench
@@ -16229,7 +16057,6 @@ Wright
 Wrinkle
 Writtenhouse
 Wyatt
-Wyattjr
 Wycoff
 Wyers
 Wyles
@@ -16237,7 +16064,6 @@ Wyman
 Wyner
 Wynn
 Wynne
-Wynnjr
 Yager
 Yamber
 Yancey
@@ -16248,22 +16074,20 @@ Yarberry
 Yarborough
 Yarbrough
 Yates
-Yeagerjr
+Yeager
 Yearber
 Yeazel
-Yenorjr
+Yenor
 Yerby
 Yielding
 Yocum
 Yoder
 Yoeman
 York
-Yorkjr
 Young
 Youngblood
 Younger
 Youngii
-Youngjr
 Yount
 Zacharysr
 Zakis
