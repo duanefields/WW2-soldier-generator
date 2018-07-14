@@ -8,7 +8,7 @@ import LastNamesText from '!raw-loader!./data/lastNames.txt';
 import CitiesText from '!raw-loader!./data/cities.txt';
 import EyeColorText from '!raw-loader!./data/eyes.txt';
 import HairColorText from '!raw-loader!./data/hair.txt';
-
+import StreetSuffixes from '!raw-loader!./data/streetSuffixes.txt'
 
 import Random from 'random-js';
 const random = Random();
@@ -19,6 +19,7 @@ class App extends Component {
   cities = CitiesText.split('\n');
   eyes = EyeColorText.split('\n');
   hair = HairColorText.split('\n');
+  streetSuffixes = StreetSuffixes.split('\n');
 
   soldiers = [];
 
@@ -39,7 +40,9 @@ class App extends Component {
     const haircolor = random.pick(this.hair);
     const weight = random.integer(140, 210);
     const height = random.integer(5*12, 6*12+4);
-    return { id, firstName, lastName, middleInitial, birthdate, birthplace, eyecolor, haircolor, weight, height }
+    const streetAddress = `${random.integer(1,5000)} ${random.pick(this.lastNames)} ${random.pick(this.streetSuffixes)}`
+
+    return { id, firstName, lastName, middleInitial, birthdate, birthplace, eyecolor, haircolor, weight, height, streetAddress }
   }
 
   render() {
