@@ -2,12 +2,13 @@ import React, { Component } from 'react';
 import './App.css';
 import Soldier from './components/Solider';
 import {groupBy} from 'lodash'
+import weightedRandom from 'weighted-random'
 
 /* eslint import/no-webpack-loader-syntax: off */
 import FirstNamesText from '!raw-loader!./data/firstNames.txt';
 import LastNamesText from '!raw-loader!./data/lastNames.txt';
 import CitiesText from '!raw-loader!./data/cities.txt';
-import EyeColorText from '!raw-loader!./data/eyes.txt';
+import EyeColors from './data/eyes.json';
 import HairColorText from '!raw-loader!./data/hair.txt';
 import StreetSuffixes from '!raw-loader!./data/streetSuffixes.txt'
 
@@ -18,8 +19,7 @@ class App extends Component {
   firstNames = FirstNamesText.split('\n');
   lastNames = LastNamesText.split('\n');
   cities = CitiesText.split('\n');
-  citiesByState = groupBy(this.cities, (c) => c.split(',')[1])
-  eyes = EyeColorText.split('\n');
+  citiesByState = groupBy(this.cities, (c) => c.split(',')[1]);
   hair = HairColorText.split('\n');
   streetSuffixes = StreetSuffixes.split('\n');
 
@@ -36,7 +36,7 @@ class App extends Component {
     const middleInitial = String.fromCharCode(random.integer(65, 90));
     const birthdate = `${random.integer(1,12)}/${random.integer(1,30)}/${random.integer(1912,1922)}`;
     const birthplace = random.pick(this.cities);
-    const eyecolor = random.pick(this.eyes);
+    const eyecolor = EyeColors[weightedRandom(EyeColors.map((v) => v.weight))].value;
     const haircolor = random.pick(this.hair);
     const weight = random.integer(140, 210);
     const height = random.integer(5*12, 6*12+4);
