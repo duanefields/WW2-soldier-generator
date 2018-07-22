@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import './App.css';
 import Soldier from './components/Solider';
-import {groupBy} from 'lodash'
-import weightedRandom from 'weighted-random'
+import {groupBy} from 'lodash';
+import weightedRandom from 'weighted-random';
+import {randomNormal} from 'd3-random';
 
 /* eslint import/no-webpack-loader-syntax: off */
 import FirstNamesText from '!raw-loader!./data/firstNames.txt';
@@ -22,11 +23,18 @@ class App extends Component {
   citiesByState = groupBy(this.cities, (c) => c.split(',')[1]);
   streetSuffixes = StreetSuffixes.split('\n');
 
-  soldiers = [];
-
   constructor() {
     super();
     this.soldier = this.createSoldier(random.integer(1000000, 99999999));
+  }
+
+  truncatedNormalDistribution(min, max) {
+    let mu = min + (max-min)/2.0
+    let sigma = (max-min)/6.0
+    let r = Math.round(randomNormal(mu, sigma)());
+    if (r < min) return min;
+    if (r > max) return max;
+    return r;
   }
 
   createSoldier(id) {
@@ -37,8 +45,8 @@ class App extends Component {
     const birthplace = random.pick(this.cities);
     const eyecolor = EyeColors[weightedRandom(EyeColors.map((v) => v.weight))].value;
     const haircolor = HairColors[weightedRandom(HairColors.map((v) => v.weight))].value;
-    const weight = random.integer(140, 210);
-    const height = random.integer(5*12, 6*12+4);
+    const weight = this.truncatedNormalDistribution(140, 210);
+    const height = this.truncatedNormalDistribution(5*12+2, 6*12+4);
     const streetAddress = `${random.integer(1,5000)} ${random.pick(this.lastNames)} ${random.pick(this.streetSuffixes)}`
     const state = birthplace.split(',')[1]
     let addressCityState = random.pick(this.citiesByState[state])
