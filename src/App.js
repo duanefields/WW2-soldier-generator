@@ -9,7 +9,7 @@ import FirstNamesText from '!raw-loader!./data/firstNames.txt';
 import LastNamesText from '!raw-loader!./data/lastNames.txt';
 import CitiesText from '!raw-loader!./data/cities.txt';
 import EyeColors from './data/eyes.json';
-import HairColorText from '!raw-loader!./data/hair.txt';
+import HairColors from './data/hair.json';
 import StreetSuffixes from '!raw-loader!./data/streetSuffixes.txt'
 
 import Random from 'random-js';
@@ -20,7 +20,6 @@ class App extends Component {
   lastNames = LastNamesText.split('\n');
   cities = CitiesText.split('\n');
   citiesByState = groupBy(this.cities, (c) => c.split(',')[1]);
-  hair = HairColorText.split('\n');
   streetSuffixes = StreetSuffixes.split('\n');
 
   soldiers = [];
@@ -37,7 +36,7 @@ class App extends Component {
     const birthdate = `${random.integer(1,12)}/${random.integer(1,30)}/${random.integer(1912,1922)}`;
     const birthplace = random.pick(this.cities);
     const eyecolor = EyeColors[weightedRandom(EyeColors.map((v) => v.weight))].value;
-    const haircolor = random.pick(this.hair);
+    const haircolor = HairColors[weightedRandom(HairColors.map((v) => v.weight))].value;
     const weight = random.integer(140, 210);
     const height = random.integer(5*12, 6*12+4);
     const streetAddress = `${random.integer(1,5000)} ${random.pick(this.lastNames)} ${random.pick(this.streetSuffixes)}`
