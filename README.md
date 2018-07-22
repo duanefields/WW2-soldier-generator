@@ -4,7 +4,7 @@ This is a little web app which generates a character sheet of sort with a random
 
 Really all you need is a name, but for those that enjoy the RPG aspects of these games, a little additional background is included and additional blank space is provided to track the characters advancement through the game.
 
-[screenshot](!assets/screenshot.jpg)
+It's hosted here: [WW2 Soldier Generator](https://recruit.fastwombat.com/)
 
 ## Building
 
@@ -13,3 +13,6 @@ If you want to build and run the app locally, it's just a React app build with c
 ```
 npm start
 ```
+
+![screenshot](assets/screenshot.jpg)
+
