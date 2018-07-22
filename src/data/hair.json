@@ -1,0 +1,34 @@
+[
+  {
+    "value": "Black",
+    "weight": 60
+  },
+  {
+    "value": "Brown",
+    "weight": 60
+  },
+  {
+    "value": "Blonde",
+    "weight": 40
+  },
+  {
+    "value": "Bald",
+    "weight": 5
+  },
+  {
+    "value": "Red",
+    "weight": 5
+  },
+  {
+    "value": "Auburn",
+    "weight": 5
+  },
+  {
+    "value": "White",
+    "weight": 3
+  },
+  {
+    "value": "Gray",
+    "weight": 5
+  }
+]

@@ -1,5 +1,28 @@
+@font-face {
+  font-family: typewriter;
+  src: url(./fonts/myoldrem.ttf);
+}
+
+@font-face {
+  font-family: form;
+  src: url('./fonts/Renner.ttf');
+  src: url('./fonts/biko/Biko_Regular.otf');
+}
+
+@media print {
+  @page {
+    margin: .25in;
+  }
+}
+
+@media print {
+  .noprint {
+    display:none !important;
+  }
+}
+
 body {
   margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  padding: 1em;
+  font-family: form, 'Courier New', Courier, monospace;
 }

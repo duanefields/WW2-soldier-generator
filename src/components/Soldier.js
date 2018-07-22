@@ -7,6 +7,8 @@ export default class Soldier extends Component {
 
     return (
       <div className="soldier">
+        <h1>Military Service Record</h1>
+
         <table className="form">
           <tbody>
 

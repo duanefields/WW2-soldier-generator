@@ -37,3 +37,12 @@ td.bigbox {
   height: 6em !important;
 }
 
+.soldier > h1, .soldier h2 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.soldier > h2 {
+  font-size: 1.25em;
+}
+
